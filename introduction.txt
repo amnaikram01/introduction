@@ -25,3 +25,6 @@ I'm a student of Software engineering and engineering at UAF.
 2024: learnt Python from online sources and website.
       created various beginner friendly projects from youtube and added 
       custom changes(myself).
+
+PIAIC: Took admission in generative AI course to inhance my knowledge ;making
+       myself ready to challanges waiting in future world of AI. 
